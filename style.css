@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(80, 80, 80);
+    color: rgb(172, 168, 168);
+    font-family: 'Helvetica';
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6em;
+    font-size: 18px;
+    padding: 0;
+  }
